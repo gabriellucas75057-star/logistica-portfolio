@@ -1,0 +1,401 @@
+﻿OS,Data_Solicitacao,Cliente,Tipo_Cliente,Quem_Solicitou,Produto,Valor_OS,Transportadora,Valor_Envio,Rastreio,Quem_Autorizou,Status,Prazo_Entrega_Dias
+181351,2025-08-03,Amanda Correia,PF,Cliente direto,Mac Mini,5250.25,DHL,329.71,3725152347,Felipe,Entregue,2.0
+180756,2025-08-03,Mariana Alves,PF,Cliente direto,iPhone 13,2994.32,FOX,231.53,4310415016,Estêvão,Devolvido,
+180456,2025-08-04,Lucas Andrade,PF,Cliente direto,iPhone 15,0.01,FOX,190.25,6754503097,Mateus,Entregue,7.0
+180889,2025-08-05,Bravium Participações,PJ,Filial Regional,AirPods Pro,1514.24,Correios,45.68,AD783703040BR,Estêvão,Entregue,8.0
+180238,2025-08-07,Nortex Logística,PJ,Filial Regional,Trackpad,867.43,DHL,182.16,8076144396,Ana,Em trânsito,
+180824,2025-08-09,Fernanda Lima,PF,Cliente direto,iPhone 15 Pro,8347.19,Correios,74.84,AD922543647BR,Ana,Entregue,7.0
+180873,2025-08-09,Vanessa Duarte,PF,Cliente direto,Cabo USB-C,102.38,DHL,145.31,2766685440,Mateus,Entregue,6.0
+181086,2025-08-09,Juliana Ferreira,PF,Cliente direto,Cabo USB-C,92.57,Retirada no balcão,0.0,S/N,Camila,Entregue,3.0
+180536,2025-08-10,Talento Digital,PJ,Filial Regional,Carregador,0.01,FOX,148.44,7478908722,Rodrigo,Entregue,4.0
+180564,2025-08-10,Amanda Correia,PF,Cliente direto,Magic Mouse,571.19,Uber,27.52,S/N,Mateus,Entregue,4.0
+181177,2025-08-10,Diego Moraes,PF,Cliente direto,iPad,6051.76,Retirada no balcão,0.0,S/N,Camila,Cancelado,
+180221,2025-08-11,Mariana Alves,PF,Cliente direto,Apple Watch,0.01,DHL,151.43,2062073697,Rodrigo,Entregue,2.0
+181284,2025-08-11,Talento Digital,PJ,Filial Regional,Cabo USB-C,138.15,Uber,50.11,S/N,Camila,Entregue,2.0
+180213,2025-08-14,Juliana Ferreira,PF,Cliente direto,Magic Mouse,553.42,Correios Seguro,44.34,AD673510887BR,Mateus,Pendente de envio,
+180666,2025-08-15,Vanessa Duarte,PF,Cliente direto,Mac Mini,6574.9,Correios,136.07,AD986090690BR,Felipe,Entregue,3.0
+180147,2025-08-15,Lucas Andrade,PF,Cliente direto,iPhone 14,4999.83,DHL,198.8,7597996327,Rodrigo,Entregue,4.0
+180614,2025-08-16,Lucas Andrade,PF,Cliente direto,iPhone 15 Pro,0.01,FOX,169.65,3918046336,Luana,Entregue,2.0
+181027,2025-08-17,Bravium Participações,PJ,Filial Regional,iPhone 13,3609.47,FOX,216.15,6358107532,Felipe,Entregue,4.0
+180409,2025-08-17,Larissa Pereira,PF,Cliente direto,Acessórios diversos,512.32,FOX,87.97,9381721143,Estêvão,Entregue,2.0
+181167,2025-08-18,Vetta Consultoria,PJ,Filial Regional,iPad Pro,0.01,Uber,51.95,S/N,Rodrigo,Entregue,14.0
+180865,2025-08-18,Rota Norte Transportes,PJ,Filial Regional,Acessórios diversos,424.12,Correios Seguro,84.44,AD662581035BR,Felipe,Em trânsito,
+180509,2025-08-20,André Nascimento,PF,Cliente direto,iPhone 15 Pro,10757.3,DHL,187.36,7278136169,Ana,Entregue,2.0
+181281,2025-08-20,Mariana Alves,PF,Cliente direto,MacBook Pro 14,0.01,DHL,350.68,8274219704,Luana,Entregue,6.0
+180514,2025-08-22,Carlos Eduardo Souza,PF,Cliente direto,Carregador,237.95,Correios,69.35,AD950207886BR,Luana,Entregue,2.0
+181024,2025-08-22,Cimento Vale Forte,PJ,Filial Regional,Acessórios diversos,469.56,Correios,42.07,AD983271755BR,Mateus,Entregue,8.0
+181398,2025-08-24,Grupo Aurora Ltda,PJ,Filial Regional,iMac,11412.8,FOX,453.76,1497791242,Luana,Entregue,2.0
+180412,2025-08-26,Carlos Eduardo Souza,PF,Cliente direto,MacBook Pro 16,17709.36,Correios,115.0,AD122932394BR,Rodrigo,Em trânsito,
+180754,2025-08-26,Lucas Andrade,PF,Cliente direto,MacBook Air,0.01,FOX,264.43,2027708670,Rodrigo,Entregue,5.0
+180446,2025-08-27,Fernanda Lima,PF,Cliente direto,Trackpad,845.58,FOX,192.8,8517413631,Camila,Devolvido,
+180119,2025-08-27,Cronos Tecnologia,PJ,Filial Regional,MacBook Pro 16,19395.45,DHL,382.59,7393195616,Felipe,Entregue,1.0
+180525,2025-08-27,Beatriz Nogueira,PF,Cliente direto,AirPods Pro,1862.65,Correios,87.36,AD741975062BR,Camila,Em trânsito,
+180070,2025-08-28,Bravium Participações,PJ,Filial Regional,Apple Watch,3562.4,Correios,57.82,AD882839238BR,Ana,Entregue,2.0
+181184,2025-08-29,Solaris Cooperativa,PJ,Filial Regional,iPad,0.01,Retirada no balcão,0.0,S/N,Mateus,Entregue,3.0
+181191,2025-08-29,Amanda Correia,PF,Cliente direto,Acessórios diversos,0.01,Correios,75.57,AD196913120BR,Ana,Entregue,10.0
+181325,2025-08-30,Beatriz Nogueira,PF,Cliente direto,MacBook Pro 16,0.01,Retirada no balcão,0.0,S/N,Estêvão,Em trânsito,
+181246,2025-09-01,Nortex Logística,PJ,Filial Regional,Trackpad,655.4,Correios,58.29,AD694425527BR,Estêvão,Em trânsito,
+181364,2025-09-03,Rota Norte Transportes,PJ,Filial Regional,Apple Watch,0.01,DHL,151.32,2314754322,Camila,Em trânsito,
+180062,2025-09-04,André Nascimento,PF,Cliente direto,iPad,0.01,FOX,261.55,1252860896,Ana,Pendente de envio,
+180506,2025-09-04,André Nascimento,PF,Cliente direto,Mac Mini,5365.55,FOX,259.75,5943324387,Camila,Entregue,8.0
+181264,2025-09-04,Lucas Andrade,PF,Cliente direto,Mac Mini,5706.29,Uber,52.99,S/N,Estêvão,Entregue,3.0
+180956,2025-09-05,Bruno Martins,PF,Cliente direto,Magic Mouse,755.34,Retirada no balcão,0.0,S/N,Luana,Em trânsito,
+180369,2025-09-07,Cascata Alimentos,PJ,Filial Regional,iPad Pro,11400.76,FOX,242.12,3347621138,Mateus,Entregue,5.0
+180537,2025-09-09,Cimento Vale Forte,PJ,Filial Regional,Cabo USB-C,0.01,Correios Seguro,62.07,AD266371119BR,Mateus,Entregue,6.0
+180489,2025-09-10,Ômega Hospitalar,PJ,Filial Regional,iPhone 13,0.01,Correios,46.85,AD662600500BR,Luana,Entregue,5.0
+180658,2025-09-10,Rota Norte Transportes,PJ,Filial Regional,iPad,0.01,Correios Seguro,42.92,AD404994549BR,Mateus,Entregue,4.0
+181092,2025-09-10,Carlos Eduardo Souza,PF,Cliente direto,Acessórios diversos,463.22,DHL,221.03,5654014006,Felipe,Entregue,10.0
+180796,2025-09-11,Bruno Martins,PF,Cliente direto,iPad,3823.62,Correios,44.81,AD945432844BR,Luana,Entregue,2.0
+180914,2025-09-13,Nortex Logística,PJ,Filial Regional,AirPods Pro,1927.3,FOX,216.05,8132531532,Felipe,Entregue,4.0
+181355,2025-09-15,André Nascimento,PF,Cliente direto,MacBook Pro 14,18692.45,Retirada no balcão,0.0,S/N,Luana,Entregue,3.0
+180390,2025-09-16,Cimento Vale Forte,PJ,Filial Regional,Magic Mouse,0.01,Correios,71.12,AD241102355BR,Luana,Pendente de envio,
+180802,2025-09-16,Nortex Logística,PJ,Filial Regional,Magic Mouse,0.01,DHL,167.35,7799567490,Felipe,Pendente de envio,
+181401,2025-09-17,Thiago Barbosa,PF,Cliente direto,Apple Watch,2875.33,Correios Seguro,108.02,AD388095021BR,Rodrigo,Entregue,2.0
+181058,2025-09-17,Rafael Costa,PF,Cliente direto,iMac,0.01,Correios Seguro,176.08,AD394226159BR,Ana,Entregue,2.0
+181047,2025-09-17,Amanda Correia,PF,Cliente direto,Mac Mini,5693.23,Retirada no balcão,0.0,S/N,Luana,Entregue,8.0
+180679,2025-09-19,Thiago Barbosa,PF,Cliente direto,iPad,3834.63,DHL,259.6,2064803502,Felipe,Entregue,2.0
+180975,2025-09-20,Gustavo Ramos,PF,Cliente direto,Mac Mini,6200.65,Correios,111.96,AD111325589BR,Luana,Entregue,5.0
+180347,2025-09-21,Rafael Costa,PF,Cliente direto,Cabo USB-C,137.79,DHL,148.12,8924383984,Ana,Entregue,3.0
+181226,2025-09-21,Isabela Cardoso,PF,Cliente direto,MacBook Pro 14,14311.31,Correios,155.69,AD157505040BR,Estêvão,Entregue,2.0
+181274,2025-09-21,Isabela Cardoso,PF,Cliente direto,MacBook Air,0.01,Correios,118.27,AD914301516BR,Felipe,Pendente de envio,
+180517,2025-09-22,Prisma Educacional,PJ,Filial Regional,Cabo USB-C,144.44,Correios Seguro,60.12,AD583745511BR,Luana,Em trânsito,
+180003,2025-09-22,Isabela Cardoso,PF,Cliente direto,Mac Mini,0.01,DHL,331.19,8574149614,Camila,Entregue,1.0
+181388,2025-09-23,Talento Digital,PJ,Filial Regional,iPhone 15,0.01,FOX,202.25,5884080139,Ana,Entregue,6.0
+180878,2025-09-24,João Pedro Silva,PF,Cliente direto,Carregador,229.28,FOX,177.74,4907446848,Rodrigo,Pendente de envio,
+180138,2025-09-25,Isabela Cardoso,PF,Cliente direto,iPad,0.01,Retirada no balcão,0.0,S/N,Felipe,Entregue,8.0
+180029,2025-09-26,Rafael Costa,PF,Cliente direto,Carregador,227.49,Retirada no balcão,0.0,S/N,Felipe,Entregue,2.0
+180394,2025-09-28,Rota Norte Transportes,PJ,Filial Regional,Cabo USB-C,111.45,DHL,139.67,9033293776,Rodrigo,Entregue,4.0
+180295,2025-09-28,Ômega Hospitalar,PJ,Filial Regional,Magic Mouse,0.01,DHL,237.0,6144594354,Rodrigo,Entregue,2.0
+180986,2025-09-29,Grupo Aurora Ltda,PJ,Filial Regional,Cabo USB-C,0.01,Correios,57.88,AD192185888BR,Rodrigo,Em trânsito,
+180407,2025-09-29,Rafael Costa,PF,Cliente direto,iPhone 15 Pro,6868.1,Correios,66.07,AD628951656BR,Rodrigo,Entregue,2.0
+180115,2025-09-29,Ômega Hospitalar,PJ,Filial Regional,Acessórios diversos,0.01,FOX,131.62,5871743247,Mateus,Pendente de envio,
+181100,2025-09-30,Lucas Andrade,PF,Cliente direto,MacBook Pro 14,18758.26,FOX,320.42,9046449694,Camila,Entregue,2.0
+181155,2025-10-02,Fernanda Lima,PF,Cliente direto,Magic Mouse,0.01,Retirada no balcão,0.0,S/N,Rodrigo,Entregue,3.0
+181160,2025-10-02,Bruno Martins,PF,Cliente direto,Magic Mouse,669.16,DHL,190.69,8769111397,Ana,Entregue,5.0
+180652,2025-10-03,Rafael Costa,PF,Cliente direto,Trackpad,695.24,Retirada no balcão,0.0,S/N,Rodrigo,Entregue,5.0
+181383,2025-10-03,João Pedro Silva,PF,Cliente direto,iPhone 15 Pro,8395.26,Correios,99.93,AD508294370BR,Luana,Entregue,10.0
+180055,2025-10-04,Carlos Eduardo Souza,PF,Cliente direto,Cabo USB-C,135.87,Correios Seguro,51.11,AD671988889BR,Mateus,Entregue,3.0
+180441,2025-10-06,Carlos Eduardo Souza,PF,Cliente direto,iPhone 14,4837.67,DHL,193.27,8468071953,Mateus,Entregue,2.0
+180769,2025-10-08,Solaris Cooperativa,PJ,Filial Regional,Acessórios diversos,367.29,Uber,23.21,S/N,Camila,Em trânsito,
+181368,2025-10-08,Diego Moraes,PF,Cliente direto,Carregador,0.01,Uber,30.97,S/N,Camila,Entregue,14.0
+181008,2025-10-08,Felipe Teixeira,PF,Cliente direto,MacBook Pro 14,17164.76,FOX,318.68,9953941533,Camila,Entregue,5.0
+181067,2025-10-08,Rota Norte Transportes,PJ,Filial Regional,iMac,0.01,Retirada no balcão,0.0,S/N,Rodrigo,Entregue,5.0
+180812,2025-10-09,Carlos Eduardo Souza,PF,Cliente direto,Cabo USB-C,0.01,Correios,67.25,AD925677464BR,Luana,Entregue,4.0
+180469,2025-10-10,Vanessa Duarte,PF,Cliente direto,iPhone 15 Pro,0.01,Correios,104.64,AD326810757BR,Camila,Entregue,3.0
+180562,2025-10-10,Zenith Advogados,PJ,Filial Regional,iPhone 13,5344.14,FOX,262.75,4398953973,Luana,Entregue,3.0
+180840,2025-10-13,Amanda Correia,PF,Cliente direto,iPad,4043.42,Correios,29.74,AD859754807BR,Mateus,Em trânsito,
+181349,2025-10-13,Rafael Costa,PF,Cliente direto,MacBook Pro 16,0.01,Correios Seguro,121.56,AD591313587BR,Rodrigo,Entregue,7.0
+180930,2025-10-14,Gustavo Ramos,PF,Cliente direto,MacBook Pro 14,0.01,Correios,91.7,AD629487801BR,Camila,Entregue,4.0
+180870,2025-10-17,João Pedro Silva,PF,Cliente direto,Trackpad,0.01,FOX,162.25,9881854670,Estêvão,Entregue,7.0
+181139,2025-10-19,Cronos Tecnologia,PJ,Filial Regional,iPad,0.01,DHL,270.46,3511301900,Estêvão,Entregue,1.0
+180554,2025-10-22,André Nascimento,PF,Cliente direto,Magic Mouse,651.23,DHL,171.44,7560389844,Rodrigo,Em trânsito,
+180903,2025-10-23,André Nascimento,PF,Cliente direto,MacBook Air,7896.18,FOX,360.14,5625411308,Felipe,Entregue,1.0
+180707,2025-10-23,Rota Norte Transportes,PJ,Filial Regional,Carregador,0.01,Correios Seguro,38.34,AD442019016BR,Luana,Entregue,6.0
+181029,2025-10-24,Felipe Teixeira,PF,Cliente direto,iPhone 13,3411.8,DHL,176.96,8012696455,Felipe,Entregue,3.0
+180864,2025-10-26,Amanda Correia,PF,Cliente direto,Magic Mouse,0.01,Retirada no balcão,0.0,S/N,Estêvão,Entregue,8.0
+181253,2025-10-28,Vanessa Duarte,PF,Cliente direto,MacBook Air,0.01,Retirada no balcão,0.0,S/N,Rodrigo,Devolvido,
+180835,2025-10-29,Cronos Tecnologia,PJ,Filial Regional,iPad Pro,0.01,Correios Seguro,99.02,AD889427990BR,Mateus,Entregue,8.0
+180764,2025-10-29,Carlos Eduardo Souza,PF,Cliente direto,iPad,4585.97,FOX,230.73,5022964382,Ana,Entregue,2.0
+181194,2025-10-30,João Pedro Silva,PF,Cliente direto,Mac Mini,7115.42,DHL,306.65,5855415646,Ana,Pendente de envio,
+180184,2025-10-30,Camila Rodrigues,PF,Cliente direto,MacBook Air,13010.12,DHL,294.19,2825989011,Mateus,Em trânsito,
+181187,2025-10-30,Gustavo Ramos,PF,Cliente direto,Apple Watch,2717.06,Correios Seguro,36.73,AD286521875BR,Felipe,Entregue,3.0
+180898,2025-10-31,Mariana Alves,PF,Cliente direto,iPhone 14,6366.91,DHL,215.0,3826557688,Ana,Pendente de envio,
+180772,2025-11-04,Meridian Engenharia,PJ,Filial Regional,Mac Mini,0.01,Correios,125.12,AD376236056BR,Felipe,Entregue,14.0
+181001,2025-11-04,Bravium Participações,PJ,Filial Regional,Magic Mouse,0.01,Correios,27.48,AD298053584BR,Estêvão,Entregue,4.0
+180337,2025-11-05,Thiago Barbosa,PF,Cliente direto,Acessórios diversos,452.31,Correios,94.43,AD445505799BR,Mateus,Cancelado,
+180724,2025-11-06,Rafael Costa,PF,Cliente direto,iPad,0.01,Correios Seguro,80.83,AD217999418BR,Estêvão,Entregue,3.0
+181117,2025-11-09,Cimento Vale Forte,PJ,Filial Regional,iMac,13742.2,DHL,468.99,9469064524,Felipe,Entregue,6.0
+180172,2025-11-10,Beatriz Nogueira,PF,Cliente direto,Carregador,249.3,FOX,114.16,2333241445,Rodrigo,Entregue,3.0
+180628,2025-11-11,Cronos Tecnologia,PJ,Filial Regional,Magic Mouse,0.01,FOX,162.78,9584045520,Estêvão,Entregue,2.0
+181259,2025-11-12,Rafael Costa,PF,Cliente direto,iPhone 15 Pro,10015.2,Correios Seguro,135.17,AD567499938BR,Rodrigo,Cancelado,
+180798,2025-11-12,André Nascimento,PF,Cliente direto,iPhone 13,0.01,Correios,33.89,AD642762599BR,Rodrigo,Entregue,5.0
+180841,2025-11-13,Isabela Cardoso,PF,Cliente direto,Acessórios diversos,463.1,Correios,37.41,AD373799489BR,Estêvão,Entregue,4.0
+181079,2025-11-14,Cronos Tecnologia,PJ,Filial Regional,iPhone 14,0.01,FOX,192.38,9056616444,Rodrigo,Entregue,2.0
+181050,2025-11-17,Larissa Pereira,PF,Cliente direto,iPhone 14,5511.33,Correios,96.3,AD561325766BR,Felipe,Entregue,7.0
+181373,2025-11-17,Juliana Ferreira,PF,Cliente direto,AirPods Pro,0.01,DHL,163.84,5230025371,Mateus,Entregue,3.0
+180414,2025-11-19,Bruno Martins,PF,Cliente direto,iPhone 14,5301.98,Correios,108.03,AD729624046BR,Camila,Em trânsito,
+181109,2025-11-23,Ômega Hospitalar,PJ,Filial Regional,iPhone 14,3975.22,DHL,175.02,1226225156,Estêvão,Em trânsito,
+181108,2025-11-23,Mariana Alves,PF,Cliente direto,Acessórios diversos,431.96,FOX,184.55,8111191488,Luana,Entregue,3.0
+180059,2025-11-24,Larissa Pereira,PF,Cliente direto,Magic Mouse,597.53,Correios,67.09,AD366186631BR,Mateus,Entregue,2.0
+180144,2025-11-25,Bruno Martins,PF,Cliente direto,Magic Mouse,0.01,Retirada no balcão,0.0,S/N,Rodrigo,Entregue,3.0
+180381,2025-11-26,Mariana Alves,PF,Cliente direto,Cabo USB-C,120.27,Uber,32.92,S/N,Rodrigo,Entregue,7.0
+180895,2025-11-26,Thiago Barbosa,PF,Cliente direto,iPhone 13,3079.41,Uber,38.48,S/N,Mateus,Entregue,10.0
+180475,2025-11-26,Cascata Alimentos,PJ,Filial Regional,Trackpad,0.01,Correios,52.52,AD855561271BR,Felipe,Entregue,1.0
+181059,2025-11-28,Juliana Ferreira,PF,Cliente direto,iPhone 15 Pro,6857.23,Correios,74.52,AD851019450BR,Luana,Entregue,3.0
+180558,2025-11-29,Larissa Pereira,PF,Cliente direto,iPhone 15,7778.46,Correios,102.01,AD501538092BR,Camila,Entregue,8.0
+180565,2025-11-30,Vanessa Duarte,PF,Cliente direto,Carregador,288.72,Retirada no balcão,0.0,S/N,Rodrigo,Entregue,1.0
+180417,2025-11-30,João Pedro Silva,PF,Cliente direto,MacBook Air,0.01,Retirada no balcão,0.0,S/N,Rodrigo,Entregue,2.0
+181080,2025-12-01,Beatriz Nogueira,PF,Cliente direto,iPhone 15 Pro,8533.27,Retirada no balcão,0.0,S/N,Rodrigo,Entregue,6.0
+180997,2025-12-03,Carlos Eduardo Souza,PF,Cliente direto,iMac,0.01,FOX,492.6,4436189121,Rodrigo,Entregue,4.0
+180362,2025-12-04,Cimento Vale Forte,PJ,Filial Regional,iPhone 15 Pro,0.01,Correios,74.0,AD256304376BR,Luana,Entregue,1.0
+180094,2025-12-05,Camila Rodrigues,PF,Cliente direto,AirPods Pro,0.01,Uber,39.75,S/N,Mateus,Entregue,4.0
+180736,2025-12-05,Patrícia Gonçalves,PF,Cliente direto,Mac Mini,6402.95,FOX,334.76,3079537716,Rodrigo,Entregue,5.0
+180219,2025-12-08,Cimento Vale Forte,PJ,Filial Regional,AirPods Pro,0.01,Correios Seguro,49.36,AD552651788BR,Ana,Em trânsito,
+181308,2025-12-08,João Pedro Silva,PF,Cliente direto,Cabo USB-C,129.68,FOX,157.2,1036351450,Luana,Entregue,3.0
+180859,2025-12-10,Prisma Educacional,PJ,Filial Regional,iPad,4189.93,FOX,225.75,8236361108,Luana,Entregue,3.0
+180781,2025-12-12,Solaris Cooperativa,PJ,Filial Regional,iPhone 13,0.01,DHL,193.58,2065354117,Felipe,Entregue,2.0
+180215,2025-12-12,Carlos Eduardo Souza,PF,Cliente direto,Trackpad,0.01,Correios,45.91,AD153992714BR,Estêvão,Entregue,5.0
+180100,2025-12-14,Solaris Cooperativa,PJ,Filial Regional,Carregador,0.01,DHL,154.48,2349409434,Luana,Entregue,2.0
+180353,2025-12-14,Isabela Cardoso,PF,Cliente direto,MacBook Air,0.01,Retirada no balcão,0.0,S/N,Estêvão,Entregue,2.0
+181396,2025-12-14,Fernanda Lima,PF,Cliente direto,iPad Pro,10088.89,Correios,107.73,AD417851397BR,Felipe,Entregue,7.0
+181278,2025-12-14,Cronos Tecnologia,PJ,Filial Regional,Acessórios diversos,466.52,Uber,54.02,S/N,Mateus,Entregue,8.0
+181305,2025-12-16,Ômega Hospitalar,PJ,Filial Regional,MacBook Pro 16,20984.33,FOX,369.48,3910678913,Ana,Entregue,6.0
+181180,2025-12-17,Amanda Correia,PF,Cliente direto,Apple Watch,3025.84,Correios,51.86,AD517021222BR,Mateus,Entregue,4.0
+180919,2025-12-17,Carlos Eduardo Souza,PF,Cliente direto,iPhone 15,6902.1,Correios,47.26,AD917489574BR,Rodrigo,Entregue,14.0
+180911,2025-12-18,Thiago Barbosa,PF,Cliente direto,AirPods Pro,1959.37,Correios,38.74,AD780884334BR,Estêvão,Em trânsito,
+180273,2025-12-19,Horizonte Distribuidora,PJ,Filial Regional,Apple Watch,0.01,DHL,201.68,3294092753,Mateus,Entregue,3.0
+180009,2025-12-21,Larissa Pereira,PF,Cliente direto,MacBook Pro 16,22798.48,DHL,316.17,5728765136,Rodrigo,Entregue,4.0
+181171,2025-12-22,Amanda Correia,PF,Cliente direto,Trackpad,887.61,Correios,41.41,AD194190297BR,Rodrigo,Entregue,4.0
+180088,2025-12-25,Bravium Participações,PJ,Filial Regional,iPad Pro,10994.41,Retirada no balcão,0.0,S/N,Felipe,Entregue,8.0
+180189,2025-12-25,Diego Moraes,PF,Cliente direto,Cabo USB-C,98.96,DHL,175.18,9922723063,Camila,Entregue,6.0
+180762,2025-12-26,Amanda Correia,PF,Cliente direto,Cabo USB-C,120.5,Retirada no balcão,0.0,S/N,Ana,Entregue,3.0
+181019,2025-12-28,Amanda Correia,PF,Cliente direto,MacBook Pro 14,0.01,DHL,314.49,4268713302,Mateus,Entregue,7.0
+180289,2025-12-28,Vetta Consultoria,PJ,Filial Regional,Acessórios diversos,0.01,DHL,182.45,7845366946,Luana,Entregue,4.0
+181219,2025-12-29,Amanda Correia,PF,Cliente direto,iPad,0.01,DHL,226.19,4632522232,Ana,Entregue,7.0
+181333,2025-12-29,André Nascimento,PF,Cliente direto,MacBook Pro 16,0.01,FOX,367.2,3397657114,Luana,Entregue,8.0
+180590,2025-12-29,Amanda Correia,PF,Cliente direto,MacBook Pro 14,16709.15,DHL,310.57,2965718821,Ana,Entregue,3.0
+180765,2025-12-31,Gustavo Ramos,PF,Cliente direto,Cabo USB-C,0.01,FOX,135.29,1160916026,Camila,Entregue,8.0
+180164,2026-01-01,Larissa Pereira,PF,Cliente direto,Trackpad,0.01,FOX,148.94,4642197907,Estêvão,Entregue,10.0
+180831,2026-01-02,Beatriz Nogueira,PF,Cliente direto,iPad,4866.85,FOX,272.87,2377246195,Mateus,Em trânsito,
+180843,2026-01-03,Cimento Vale Forte,PJ,Filial Regional,Acessórios diversos,0.01,DHL,171.39,9190643621,Rodrigo,Devolvido,
+181236,2026-01-05,Vetta Consultoria,PJ,Filial Regional,iMac,14600.59,Correios,184.59,AD224026766BR,Estêvão,Em trânsito,
+180051,2026-01-05,Fernanda Lima,PF,Cliente direto,Apple Watch,3304.95,Retirada no balcão,0.0,S/N,Mateus,Entregue,10.0
+180152,2026-01-08,Lucas Andrade,PF,Cliente direto,iPhone 15 Pro,0.01,Correios,78.53,AD882269302BR,Ana,Entregue,1.0
+180681,2026-01-08,Camila Rodrigues,PF,Cliente direto,MacBook Pro 14,14042.8,Correios Seguro,103.02,AD874305759BR,Estêvão,Entregue,2.0
+180480,2026-01-08,Gustavo Ramos,PF,Cliente direto,iPhone 15 Pro,9588.82,Correios,80.1,AD183604337BR,Estêvão,Entregue,10.0
+181085,2026-01-10,Vanessa Duarte,PF,Cliente direto,iPhone 14,5345.68,Correios Seguro,53.12,AD487726245BR,Estêvão,Entregue,3.0
+180634,2026-01-11,Talento Digital,PJ,Filial Regional,Magic Mouse,744.73,Retirada no balcão,0.0,S/N,Ana,Entregue,1.0
+181212,2026-01-11,Fernanda Lima,PF,Cliente direto,Cabo USB-C,0.01,FOX,140.42,6317152031,Felipe,Entregue,6.0
+181288,2026-01-12,Cascata Alimentos,PJ,Filial Regional,iPhone 13,5164.96,DHL,198.74,8489236010,Mateus,Entregue,6.0
+181032,2026-01-13,Grupo Aurora Ltda,PJ,Filial Regional,Apple Watch,2808.17,Correios,24.08,AD280793819BR,Camila,Devolvido,
+181005,2026-01-14,Carlos Eduardo Souza,PF,Cliente direto,iPhone 13,4105.58,Correios,85.19,AD492767278BR,Camila,Entregue,3.0
+180946,2026-01-14,Talento Digital,PJ,Filial Regional,Cabo USB-C,92.94,Retirada no balcão,0.0,S/N,Camila,Entregue,2.0
+181320,2026-01-14,Meridian Engenharia,PJ,Filial Regional,Cabo USB-C,0.01,Correios Seguro,80.84,AD787833374BR,Luana,Em trânsito,
+181148,2026-01-15,Vetta Consultoria,PJ,Filial Regional,iMac,12620.15,FOX,447.27,1173215225,Rodrigo,Entregue,1.0
+180265,2026-01-17,Patrícia Gonçalves,PF,Cliente direto,Carregador,0.01,Correios Seguro,36.14,AD690975123BR,Camila,Entregue,1.0
+180531,2026-01-18,Meridian Engenharia,PJ,Filial Regional,Acessórios diversos,371.36,DHL,152.39,4750707607,Rodrigo,Entregue,2.0
+180702,2026-01-18,Prisma Educacional,PJ,Filial Regional,Carregador,228.41,DHL,215.35,1167134213,Estêvão,Em trânsito,
+180697,2026-01-21,Rafael Costa,PF,Cliente direto,iPhone 13,3865.78,Retirada no balcão,0.0,S/N,Felipe,Entregue,3.0
+181224,2026-01-21,Vetta Consultoria,PJ,Filial Regional,AirPods Pro,0.01,DHL,151.37,5200656353,Estêvão,Entregue,4.0
+180038,2026-01-22,Fernanda Lima,PF,Cliente direto,Acessórios diversos,511.14,Retirada no balcão,0.0,S/N,Rodrigo,Entregue,4.0
+180249,2026-01-22,Juliana Ferreira,PF,Cliente direto,Cabo USB-C,0.01,Retirada no balcão,0.0,S/N,Luana,Entregue,3.0
+180744,2026-01-24,Prisma Educacional,PJ,Filial Regional,Acessórios diversos,542.46,Correios Seguro,83.86,AD978726109BR,Camila,Devolvido,
+180582,2026-01-24,Gustavo Ramos,PF,Cliente direto,Apple Watch,0.01,DHL,218.92,4386667704,Luana,Entregue,4.0
+180907,2026-01-25,Patrícia Gonçalves,PF,Cliente direto,Mac Mini,6320.18,FOX,356.55,9926778957,Rodrigo,Entregue,10.0
+180495,2026-01-27,Zenith Advogados,PJ,Filial Regional,MacBook Pro 14,0.01,FOX,357.27,8628842157,Felipe,Entregue,7.0
+181074,2026-01-27,Rota Norte Transportes,PJ,Filial Regional,iPhone 13,0.01,DHL,161.98,8430332727,Felipe,Devolvido,
+181213,2026-01-27,Thiago Barbosa,PF,Cliente direto,Magic Mouse,0.01,DHL,156.6,3977168607,Luana,Entregue,10.0
+181336,2026-01-29,Cimento Vale Forte,PJ,Filial Regional,Acessórios diversos,366.46,DHL,178.43,1383539822,Estêvão,Entregue,6.0
+181206,2026-01-30,Talento Digital,PJ,Filial Regional,Acessórios diversos,422.94,Correios Seguro,62.66,AD945026004BR,Felipe,Entregue,5.0
+181182,2026-01-31,Rota Norte Transportes,PJ,Filial Regional,iPad Pro,0.01,Correios Seguro,68.18,AD668473595BR,Rodrigo,Entregue,2.0
+180852,2026-02-01,Gustavo Ramos,PF,Cliente direto,Magic Mouse,666.11,Correios,72.72,AD380849661BR,Estêvão,Entregue,3.0
+180965,2026-02-01,Diego Moraes,PF,Cliente direto,Trackpad,808.13,Retirada no balcão,0.0,S/N,Mateus,Entregue,10.0
+181295,2026-02-01,Ômega Hospitalar,PJ,Filial Regional,MacBook Pro 16,21255.14,DHL,364.09,2960432117,Camila,Entregue,3.0
+180635,2026-02-02,Beatriz Nogueira,PF,Cliente direto,iMac,14806.89,FOX,489.22,3738900744,Rodrigo,Entregue,6.0
+180418,2026-02-02,Vetta Consultoria,PJ,Filial Regional,Trackpad,772.39,FOX,153.99,7340428136,Estêvão,Entregue,1.0
+181104,2026-02-03,João Pedro Silva,PF,Cliente direto,iPhone 15 Pro,10810.87,DHL,220.49,5492456455,Rodrigo,Entregue,6.0
+181197,2026-02-03,Prisma Educacional,PJ,Filial Regional,MacBook Air,9429.51,Retirada no balcão,0.0,S/N,Luana,Devolvido,
+180619,2026-02-04,Mariana Alves,PF,Cliente direto,MacBook Air,0.01,Retirada no balcão,0.0,S/N,Ana,Entregue,5.0
+180393,2026-02-04,Bruno Martins,PF,Cliente direto,MacBook Air,10733.7,Uber,36.36,S/N,Felipe,Entregue,2.0
+180689,2026-02-04,Isabela Cardoso,PF,Cliente direto,MacBook Air,8502.89,FOX,304.35,8575707116,Mateus,Entregue,8.0
+180398,2026-02-04,Camila Rodrigues,PF,Cliente direto,AirPods Pro,2055.25,Retirada no balcão,0.0,S/N,Ana,Entregue,3.0
+180600,2026-02-05,Ômega Hospitalar,PJ,Filial Regional,iPhone 15 Pro,10078.22,Correios,69.28,AD233654018BR,Luana,Entregue,8.0
+180605,2026-02-05,Gustavo Ramos,PF,Cliente direto,Mac Mini,6148.4,Correios,108.13,AD634211672BR,Camila,Pendente de envio,
+180853,2026-02-06,Talento Digital,PJ,Filial Regional,Cabo USB-C,126.09,Correios,43.62,AD318106480BR,Mateus,Entregue,5.0
+181299,2026-02-07,Diego Moraes,PF,Cliente direto,AirPods Pro,1851.6,DHL,170.16,1131267917,Rodrigo,Entregue,5.0
+180791,2026-02-08,Camila Rodrigues,PF,Cliente direto,MacBook Air,10274.29,Correios,89.39,AD750407244BR,Estêvão,Entregue,4.0
+180818,2026-02-10,Larissa Pereira,PF,Cliente direto,AirPods Pro,2189.22,Uber,36.47,S/N,Luana,Entregue,3.0
+180006,2026-02-10,Vanessa Duarte,PF,Cliente direto,iPad Pro,8946.11,FOX,246.87,3303082117,Felipe,Entregue,2.0
+180938,2026-02-11,Rafael Costa,PF,Cliente direto,iMac,0.01,Correios,149.11,AD765926290BR,Estêvão,Em trânsito,
+180343,2026-02-12,Isabela Cardoso,PF,Cliente direto,iPhone 15 Pro,0.01,Correios,105.27,AD971243675BR,Felipe,Entregue,7.0
+181240,2026-02-12,Lucas Andrade,PF,Cliente direto,iPhone 14,4536.57,Correios,74.62,AD498380251BR,Ana,Entregue,4.0
+181162,2026-02-12,Prisma Educacional,PJ,Filial Regional,Trackpad,781.84,Correios,60.56,AD131656371BR,Camila,Entregue,10.0
+181061,2026-02-13,Meridian Engenharia,PJ,Filial Regional,Trackpad,975.63,Correios,76.44,AD345829826BR,Ana,Entregue,7.0
+180202,2026-02-16,Rota Norte Transportes,PJ,Filial Regional,AirPods Pro,2179.41,Correios Seguro,93.31,AD420632895BR,Mateus,Em trânsito,
+180208,2026-02-16,Patrícia Gonçalves,PF,Cliente direto,iPad,3905.57,DHL,248.92,3085816511,Felipe,Entregue,7.0
+180198,2026-02-16,Cascata Alimentos,PJ,Filial Regional,Trackpad,0.01,Retirada no balcão,0.0,S/N,Luana,Pendente de envio,
+180683,2026-02-18,Felipe Teixeira,PF,Cliente direto,Cabo USB-C,118.07,Correios,28.12,AD196689473BR,Rodrigo,Entregue,2.0
+181135,2026-02-18,Camila Rodrigues,PF,Cliente direto,iMac,0.01,Correios,185.73,AD959870518BR,Camila,Entregue,7.0
+181230,2026-02-18,Patrícia Gonçalves,PF,Cliente direto,iPad Pro,12439.94,DHL,250.94,1411955771,Rodrigo,Entregue,2.0
+180378,2026-02-19,Beatriz Nogueira,PF,Cliente direto,iMac,0.01,Retirada no balcão,0.0,S/N,Felipe,Entregue,6.0
+180848,2026-02-20,Fernanda Lima,PF,Cliente direto,Cabo USB-C,104.07,FOX,163.17,4022663059,Camila,Pendente de envio,
+180229,2026-02-20,Ômega Hospitalar,PJ,Filial Regional,MacBook Pro 14,15068.17,DHL,315.86,9410288290,Ana,Devolvido,
+180882,2026-02-20,Prisma Educacional,PJ,Filial Regional,Carregador,0.01,Correios,64.34,AD953556386BR,Estêvão,Entregue,3.0
+180410,2026-02-20,Camila Rodrigues,PF,Cliente direto,Apple Watch,0.01,FOX,132.13,2540492440,Felipe,Entregue,5.0
+180675,2026-02-21,Thiago Barbosa,PF,Cliente direto,Mac Mini,5214.93,Retirada no balcão,0.0,S/N,Mateus,Entregue,4.0
+180082,2026-02-22,Carlos Eduardo Souza,PF,Cliente direto,iPad,0.01,Correios,55.59,AD329509408BR,Estêvão,Pendente de envio,
+180165,2026-02-24,Talento Digital,PJ,Filial Regional,iMac,13935.25,DHL,404.44,7739255769,Camila,Entregue,6.0
+180777,2026-02-24,Solaris Cooperativa,PJ,Filial Regional,MacBook Pro 16,0.01,Retirada no balcão,0.0,S/N,Camila,Em trânsito,
+181153,2026-02-24,Gustavo Ramos,PF,Cliente direto,Carregador,0.01,DHL,187.95,1746756255,Luana,Em trânsito,
+181017,2026-02-26,Bruno Martins,PF,Cliente direto,AirPods Pro,1470.03,Correios,76.32,AD631469831BR,Luana,Entregue,2.0
+180839,2026-02-26,Larissa Pereira,PF,Cliente direto,AirPods Pro,2124.33,Correios,48.3,AD547025173BR,Rodrigo,Entregue,4.0
+181071,2026-02-27,Prisma Educacional,PJ,Filial Regional,iPhone 15,7802.34,DHL,182.91,4213790202,Felipe,Entregue,8.0
+181035,2026-02-27,Diego Moraes,PF,Cliente direto,iPhone 13,0.01,Retirada no balcão,0.0,S/N,Felipe,Pendente de envio,
+180137,2026-02-28,Camila Rodrigues,PF,Cliente direto,MacBook Pro 14,17231.84,Retirada no balcão,0.0,S/N,Camila,Entregue,8.0
+181125,2026-02-28,Rafael Costa,PF,Cliente direto,iPad Pro,0.01,Correios Seguro,110.46,AD658087211BR,Estêvão,Entregue,1.0
+180672,2026-03-01,Gustavo Ramos,PF,Cliente direto,iMac,11596.74,FOX,442.15,5973917657,Camila,Entregue,8.0
+180331,2026-03-01,Vanessa Duarte,PF,Cliente direto,Carregador,301.83,DHL,168.88,5594799319,Camila,Entregue,8.0
+180855,2026-03-02,Rafael Costa,PF,Cliente direto,iPhone 15,0.01,Correios Seguro,74.05,AD721849977BR,Camila,Entregue,7.0
+181331,2026-03-03,Rafael Costa,PF,Cliente direto,iPhone 15,6935.63,Correios Seguro,54.5,AD378556835BR,Ana,Entregue,3.0
+181403,2026-03-04,Bravium Participações,PJ,Filial Regional,Magic Mouse,0.01,Correios,58.14,AD613511668BR,Ana,Entregue,5.0
+180806,2026-03-05,Cronos Tecnologia,PJ,Filial Regional,iPhone 15,6848.35,Correios,56.95,AD148629555BR,Mateus,Entregue,6.0
+181201,2026-03-12,Gustavo Ramos,PF,Cliente direto,iPhone 13,0.01,Correios,43.93,AD269118504BR,Luana,Em trânsito,
+180557,2026-03-12,Vetta Consultoria,PJ,Filial Regional,iPad Pro,10532.06,Correios,126.28,AD992329618BR,Felipe,Entregue,4.0
+181055,2026-03-14,Felipe Teixeira,PF,Cliente direto,iPhone 15,0.01,Retirada no balcão,0.0,S/N,Rodrigo,Entregue,4.0
+180123,2026-03-15,Grupo Aurora Ltda,PJ,Filial Regional,Mac Mini,5448.1,FOX,299.46,2125089309,Mateus,Entregue,10.0
+180547,2026-03-16,Ômega Hospitalar,PJ,Filial Regional,MacBook Pro 14,12530.54,DHL,316.9,4090596936,Felipe,Entregue,8.0
+180357,2026-03-16,Solaris Cooperativa,PJ,Filial Regional,iMac,18187.18,FOX,408.32,4747699292,Ana,Entregue,3.0
+180609,2026-03-17,Cronos Tecnologia,PJ,Filial Regional,iMac,14761.27,FOX,420.79,7201539282,Mateus,Entregue,5.0
+180960,2026-03-18,Beatriz Nogueira,PF,Cliente direto,iPad,0.01,DHL,221.57,2619163247,Mateus,Cancelado,
+180002,2026-03-18,Nortex Logística,PJ,Filial Regional,iPhone 15,5665.88,FOX,215.97,2801823908,Felipe,Entregue,2.0
+180186,2026-03-19,Patrícia Gonçalves,PF,Cliente direto,iPad,4703.54,DHL,246.13,8995059760,Felipe,Entregue,14.0
+181013,2026-03-19,Juliana Ferreira,PF,Cliente direto,Acessórios diversos,0.01,DHL,165.74,6098549568,Ana,Entregue,2.0
+180434,2026-03-20,Fernanda Lima,PF,Cliente direto,iPhone 13,4570.64,FOX,195.84,6218484323,Camila,Pendente de envio,
+181142,2026-03-20,Meridian Engenharia,PJ,Filial Regional,Acessórios diversos,369.04,Retirada no balcão,0.0,S/N,Felipe,Entregue,5.0
+181094,2026-03-21,Camila Rodrigues,PF,Cliente direto,iPhone 15 Pro,0.01,Correios Seguro,34.02,AD224539647BR,Camila,Entregue,1.0
+181101,2026-03-22,Lucas Andrade,PF,Cliente direto,Carregador,0.01,FOX,147.63,5625980561,Estêvão,Entregue,4.0
+180823,2026-03-24,Grupo Aurora Ltda,PJ,Filial Regional,iMac,13675.34,FOX,451.11,1986399651,Rodrigo,Entregue,5.0
+181312,2026-03-24,Lucas Andrade,PF,Cliente direto,Trackpad,818.39,Retirada no balcão,0.0,S/N,Camila,Entregue,2.0
+180805,2026-03-25,Vetta Consultoria,PJ,Filial Regional,Carregador,204.59,Correios,37.7,AD700003920BR,Luana,Entregue,3.0
+180321,2026-03-25,Nortex Logística,PJ,Filial Regional,iPhone 15,5634.17,DHL,229.81,4921003983,Felipe,Devolvido,
+180402,2026-03-26,Patrícia Gonçalves,PF,Cliente direto,Mac Mini,7160.19,DHL,293.73,9861449701,Luana,Pendente de envio,
+180640,2026-03-28,Camila Rodrigues,PF,Cliente direto,Cabo USB-C,0.01,Correios,45.44,AD496115351BR,Rodrigo,Em trânsito,
+181342,2026-03-29,Thiago Barbosa,PF,Cliente direto,Apple Watch,0.01,DHL,131.12,4655935832,Mateus,Entregue,6.0
+180549,2026-03-29,Patrícia Gonçalves,PF,Cliente direto,iPad,0.01,Retirada no balcão,0.0,S/N,Camila,Pendente de envio,
+180730,2026-03-30,Talento Digital,PJ,Filial Regional,MacBook Pro 16,21842.29,Retirada no balcão,0.0,S/N,Luana,Em trânsito,
+180326,2026-03-30,Rota Norte Transportes,PJ,Filial Regional,iMac,15659.05,DHL,431.02,8880079328,Rodrigo,Entregue,3.0
+180596,2026-03-31,Cronos Tecnologia,PJ,Filial Regional,Carregador,245.7,Retirada no balcão,0.0,S/N,Rodrigo,Entregue,4.0
+180064,2026-03-31,Lucas Andrade,PF,Cliente direto,Cabo USB-C,0.01,DHL,178.36,3030106617,Ana,Em trânsito,
+180992,2026-04-01,Zenith Advogados,PJ,Filial Regional,Magic Mouse,900.57,Correios,30.82,AD473984594BR,Luana,Entregue,1.0
+180733,2026-04-02,Vetta Consultoria,PJ,Filial Regional,Carregador,0.01,Correios,26.96,AD811060614BR,Rodrigo,Entregue,2.0
+180942,2026-04-03,Ômega Hospitalar,PJ,Filial Regional,MacBook Air,0.01,FOX,292.51,3986257683,Camila,Entregue,2.0
+180644,2026-04-03,Carlos Eduardo Souza,PF,Cliente direto,iPhone 14,0.01,Correios Seguro,108.11,AD871880418BR,Felipe,Entregue,4.0
+180742,2026-04-03,Beatriz Nogueira,PF,Cliente direto,iMac,13483.86,FOX,492.0,7395219544,Camila,Entregue,2.0
+180749,2026-04-03,Talento Digital,PJ,Filial Regional,iPhone 14,0.01,Correios,111.55,AD375354619BR,Camila,Entregue,2.0
+180275,2026-04-03,Vetta Consultoria,PJ,Filial Regional,Cabo USB-C,0.01,DHL,187.71,6516195409,Ana,Entregue,7.0
+180373,2026-04-05,Bravium Participações,PJ,Filial Regional,iPad Pro,10799.01,Correios,149.73,AD513061224BR,Mateus,Entregue,5.0
+180465,2026-04-06,Prisma Educacional,PJ,Filial Regional,iPhone 15 Pro,9981.47,DHL,202.56,8137972345,Camila,Entregue,6.0
+181291,2026-04-06,Bruno Martins,PF,Cliente direto,Magic Mouse,0.01,Retirada no balcão,0.0,S/N,Felipe,Entregue,2.0
+180354,2026-04-07,Thiago Barbosa,PF,Cliente direto,Acessórios diversos,370.88,Correios,60.55,AD871716956BR,Mateus,Em trânsito,
+180335,2026-04-08,Beatriz Nogueira,PF,Cliente direto,iMac,14540.42,Correios,158.1,AD808605988BR,Mateus,Em trânsito,
+180426,2026-04-09,Mariana Alves,PF,Cliente direto,Cabo USB-C,122.27,Correios,38.62,AD215923129BR,Ana,Entregue,4.0
+180307,2026-04-09,Felipe Teixeira,PF,Cliente direto,iPad Pro,0.01,Correios,68.83,AD781594897BR,Camila,Devolvido,
+181216,2026-04-10,Bravium Participações,PJ,Filial Regional,Magic Mouse,633.61,Correios Seguro,94.01,AD544549689BR,Mateus,Pendente de envio,
+181020,2026-04-11,Cimento Vale Forte,PJ,Filial Regional,Magic Mouse,614.81,Retirada no balcão,0.0,S/N,Mateus,Entregue,5.0
+180311,2026-04-11,Thiago Barbosa,PF,Cliente direto,iPhone 13,3245.65,Correios,60.84,AD844826434BR,Felipe,Entregue,2.0
+181099,2026-04-12,Juliana Ferreira,PF,Cliente direto,iPhone 13,0.01,DHL,205.6,1048750473,Mateus,Devolvido,
+180566,2026-04-13,Vanessa Duarte,PF,Cliente direto,Magic Mouse,0.01,Retirada no balcão,0.0,S/N,Luana,Entregue,14.0
+180313,2026-04-13,Felipe Teixeira,PF,Cliente direto,Trackpad,0.01,Correios,74.25,AD768548027BR,Rodrigo,Entregue,2.0
+181251,2026-04-15,Amanda Correia,PF,Cliente direto,iPad,4968.96,DHL,220.48,4067919621,Felipe,Entregue,1.0
+180576,2026-04-17,Zenith Advogados,PJ,Filial Regional,iPhone 14,4499.24,Correios,84.3,AD944403809BR,Felipe,Entregue,8.0
+180093,2026-04-18,Cascata Alimentos,PJ,Filial Regional,Carregador,247.16,Correios,63.03,AD161073976BR,Ana,Entregue,6.0
+180171,2026-04-19,Bravium Participações,PJ,Filial Regional,Mac Mini,6439.52,Correios,106.14,AD329460134BR,Rodrigo,Entregue,10.0
+181043,2026-04-21,Isabela Cardoso,PF,Cliente direto,AirPods Pro,1326.56,FOX,155.38,5694806361,Camila,Entregue,10.0
+180312,2026-04-21,Mariana Alves,PF,Cliente direto,Magic Mouse,0.01,DHL,186.75,8613035386,Luana,Em trânsito,
+180649,2026-04-22,Rafael Costa,PF,Cliente direto,Mac Mini,5949.45,Correios,125.94,AD830261466BR,Luana,Entregue,4.0
+180627,2026-04-23,Cronos Tecnologia,PJ,Filial Regional,iPad,4578.08,DHL,251.25,6094037570,Ana,Entregue,5.0
+180280,2026-04-25,Prisma Educacional,PJ,Filial Regional,iMac,0.01,DHL,435.71,3656086594,Camila,Entregue,3.0
+180241,2026-04-25,Larissa Pereira,PF,Cliente direto,Magic Mouse,782.98,Correios,121.98,AD887906704BR,Mateus,Devolvido,
+181391,2026-04-25,Cimento Vale Forte,PJ,Filial Regional,iPhone 13,4558.95,FOX,219.19,8636275393,Luana,Devolvido,
+180519,2026-04-26,Solaris Cooperativa,PJ,Filial Regional,MacBook Pro 14,0.01,FOX,326.22,9551219870,Camila,Entregue,2.0
+180272,2026-04-26,Talento Digital,PJ,Filial Regional,Cabo USB-C,0.01,Correios,87.13,AD916267011BR,Felipe,Entregue,3.0
+180721,2026-04-26,Solaris Cooperativa,PJ,Filial Regional,iPad,4553.65,Correios,45.34,AD283085932BR,Felipe,Entregue,3.0
+181292,2026-04-26,Cimento Vale Forte,PJ,Filial Regional,MacBook Pro 14,0.01,FOX,348.01,2732526008,Rodrigo,Em trânsito,
+180466,2026-04-27,Nortex Logística,PJ,Filial Regional,iPhone 13,0.01,DHL,197.8,7842459488,Rodrigo,Entregue,8.0
+180034,2026-04-28,Vanessa Duarte,PF,Cliente direto,iPhone 14,5939.0,Correios,56.96,AD602564736BR,Felipe,Entregue,2.0
+180820,2026-04-28,Rafael Costa,PF,Cliente direto,Apple Watch,0.01,Correios Seguro,65.23,AD522043490BR,Felipe,Entregue,2.0
+181343,2026-04-29,Vanessa Duarte,PF,Cliente direto,iPhone 14,4766.94,DHL,255.03,8218541928,Felipe,Entregue,3.0
+180460,2026-04-29,Carlos Eduardo Souza,PF,Cliente direto,MacBook Air,9470.22,Correios Seguro,106.43,AD198524063BR,Estêvão,Entregue,3.0
+181122,2026-04-29,Solaris Cooperativa,PJ,Filial Regional,AirPods Pro,1970.89,FOX,130.84,1446457642,Estêvão,Cancelado,
+180049,2026-04-29,Rafael Costa,PF,Cliente direto,Apple Watch,4533.59,Correios,92.84,AD936043811BR,Camila,Pendente de envio,
+180074,2026-05-02,Talento Digital,PJ,Filial Regional,Mac Mini,5620.17,DHL,320.28,1822873088,Rodrigo,Entregue,3.0
+180271,2026-05-02,Horizonte Distribuidora,PJ,Filial Regional,iPhone 13,4310.14,Correios,41.58,AD897662466BR,Rodrigo,Devolvido,
+180103,2026-05-03,Zenith Advogados,PJ,Filial Regional,iPhone 14,0.01,FOX,200.52,1429416213,Rodrigo,Entregue,3.0
+180158,2026-05-03,André Nascimento,PF,Cliente direto,MacBook Pro 16,0.01,FOX,372.64,9597198563,Luana,Entregue,3.0
+180301,2026-05-04,Felipe Teixeira,PF,Cliente direto,iMac,15478.79,Correios Seguro,130.73,AD637377910BR,Mateus,Entregue,10.0
+180416,2026-05-04,Vanessa Duarte,PF,Cliente direto,iPhone 15,0.01,Correios Seguro,101.08,AD239577989BR,Ana,Entregue,5.0
+180825,2026-05-04,Felipe Teixeira,PF,Cliente direto,iPhone 15 Pro,0.01,DHL,197.19,2885330933,Rodrigo,Entregue,2.0
+180091,2026-05-05,Amanda Correia,PF,Cliente direto,MacBook Air,0.01,DHL,273.05,9841118422,Ana,Entregue,6.0
+180606,2026-05-07,Isabela Cardoso,PF,Cliente direto,iPhone 14,5236.64,Correios Seguro,60.75,AD293763673BR,Ana,Entregue,4.0
+180694,2026-05-09,Larissa Pereira,PF,Cliente direto,Acessórios diversos,0.01,Correios,42.99,AD583564328BR,Luana,Entregue,6.0
+180952,2026-05-09,Prisma Educacional,PJ,Filial Regional,MacBook Pro 16,13100.27,Correios,124.64,AD831983367BR,Estêvão,Entregue,8.0
+180080,2026-05-09,Horizonte Distribuidora,PJ,Filial Regional,iPhone 14,5960.93,Retirada no balcão,0.0,S/N,Mateus,Entregue,1.0
+181112,2026-05-11,Cascata Alimentos,PJ,Filial Regional,iMac,13041.85,Correios,184.11,AD192755745BR,Rodrigo,Entregue,6.0
+180924,2026-05-11,Patrícia Gonçalves,PF,Cliente direto,Acessórios diversos,392.45,DHL,232.47,5679877282,Felipe,Entregue,3.0
+180449,2026-05-12,André Nascimento,PF,Cliente direto,Carregador,0.01,FOX,165.05,5759761714,Mateus,Entregue,7.0
+180255,2026-05-12,Patrícia Gonçalves,PF,Cliente direto,iPhone 15,7332.38,DHL,215.42,7040562787,Estêvão,Entregue,8.0
+180534,2026-05-14,Beatriz Nogueira,PF,Cliente direto,AirPods Pro,0.01,FOX,176.77,5658832688,Felipe,Entregue,4.0
+180926,2026-05-14,Bravium Participações,PJ,Filial Regional,iPhone 15,0.01,Correios,68.05,AD190945411BR,Mateus,Pendente de envio,
+180131,2026-05-14,Zenith Advogados,PJ,Filial Regional,iPhone 15 Pro,9976.69,DHL,194.76,5736462531,Mateus,Pendente de envio,
+181317,2026-05-15,Vanessa Duarte,PF,Cliente direto,AirPods Pro,1850.38,DHL,173.39,8900070153,Camila,Entregue,1.0
+181189,2026-05-16,Larissa Pereira,PF,Cliente direto,iPhone 15,6764.62,Correios,77.86,AD709511014BR,Felipe,Entregue,3.0
+180461,2026-05-18,Zenith Advogados,PJ,Filial Regional,iMac,12144.86,Retirada no balcão,0.0,S/N,Rodrigo,Entregue,10.0
+180572,2026-05-20,Camila Rodrigues,PF,Cliente direto,MacBook Air,0.01,DHL,308.06,2515333350,Luana,Entregue,7.0
+180622,2026-05-21,Felipe Teixeira,PF,Cliente direto,Apple Watch,3944.55,Retirada no balcão,0.0,S/N,Estêvão,Entregue,4.0
+181102,2026-05-21,Juliana Ferreira,PF,Cliente direto,Apple Watch,0.01,Retirada no balcão,0.0,S/N,Rodrigo,Entregue,3.0
+181010,2026-05-22,Zenith Advogados,PJ,Filial Regional,MacBook Air,10528.38,Correios,75.27,AD248033880BR,Estêvão,Entregue,1.0
+180178,2026-05-22,Vanessa Duarte,PF,Cliente direto,iPhone 14,5246.98,Uber,22.06,S/N,Estêvão,Entregue,3.0
+180303,2026-05-23,Bravium Participações,PJ,Filial Regional,Mac Mini,6648.7,DHL,308.9,8822944679,Estêvão,Entregue,10.0
+180276,2026-05-23,Ômega Hospitalar,PJ,Filial Regional,Cabo USB-C,0.01,DHL,203.42,3112035409,Rodrigo,Entregue,2.0
+181156,2026-05-26,Bravium Participações,PJ,Filial Regional,Apple Watch,3264.79,Correios Seguro,99.17,AD190236646BR,Ana,Entregue,3.0
+180127,2026-05-26,Meridian Engenharia,PJ,Filial Regional,MacBook Air,10214.56,Retirada no balcão,0.0,S/N,Rodrigo,Entregue,8.0
+180027,2026-05-27,Vetta Consultoria,PJ,Filial Regional,iPad,4132.54,Correios,88.27,AD902099969BR,Estêvão,Entregue,5.0
+180001,2026-05-30,João Pedro Silva,PF,Cliente direto,iPad Pro,0.01,DHL,256.54,3342331444,Ana,Entregue,6.0
+180660,2026-05-31,Solaris Cooperativa,PJ,Filial Regional,iMac,13387.52,DHL,454.85,3753020051,Rodrigo,Devolvido,
+181129,2026-05-31,Carlos Eduardo Souza,PF,Cliente direto,iPhone 13,4284.32,FOX,180.97,2693725910,Luana,Entregue,10.0
+180243,2026-05-31,Patrícia Gonçalves,PF,Cliente direto,Cabo USB-C,114.16,Retirada no balcão,0.0,S/N,Felipe,Entregue,8.0
+181379,2026-06-01,Zenith Advogados,PJ,Filial Regional,iPhone 15 Pro,6904.29,FOX,244.09,3676343517,Ana,Cancelado,
+180300,2026-06-01,Rafael Costa,PF,Cliente direto,iPhone 14,0.01,Retirada no balcão,0.0,S/N,Camila,Entregue,1.0
+180430,2026-06-02,Thiago Barbosa,PF,Cliente direto,MacBook Air,0.01,DHL,295.21,6691628146,Mateus,Entregue,10.0
+180234,2026-06-04,Camila Rodrigues,PF,Cliente direto,iPhone 13,3975.25,Correios,85.9,AD834717549BR,Felipe,Em trânsito,
+181211,2026-06-05,Cronos Tecnologia,PJ,Filial Regional,iMac,0.01,FOX,415.75,1139082827,Rodrigo,Entregue,2.0
+180227,2026-06-07,Fernanda Lima,PF,Cliente direto,MacBook Pro 16,18965.9,DHL,402.75,2584392711,Luana,Entregue,10.0
+181006,2026-06-09,Amanda Correia,PF,Cliente direto,Carregador,208.35,Correios,97.81,AD517298229BR,Camila,Entregue,1.0
+180109,2026-06-10,Carlos Eduardo Souza,PF,Cliente direto,iPad,5109.88,DHL,247.48,8316648259,Mateus,Cancelado,
+180454,2026-06-11,Bravium Participações,PJ,Filial Regional,Acessórios diversos,434.88,Retirada no balcão,0.0,S/N,Ana,Entregue,3.0
+180486,2026-06-13,Isabela Cardoso,PF,Cliente direto,iMac,0.01,DHL,502.81,2394868732,Camila,Entregue,4.0
+180541,2026-06-13,Diego Moraes,PF,Cliente direto,iPhone 15 Pro,7445.28,Uber,43.33,S/N,Rodrigo,Entregue,10.0
+180366,2026-06-14,Juliana Ferreira,PF,Cliente direto,MacBook Pro 14,0.01,Uber,25.08,S/N,Mateus,Entregue,4.0
+180044,2026-06-17,Lucas Andrade,PF,Cliente direto,Carregador,280.85,Correios,23.48,AD214257751BR,Mateus,Entregue,3.0
+180935,2026-06-17,Amanda Correia,PF,Cliente direto,iPhone 14,3909.21,Correios Seguro,66.25,AD874059895BR,Rodrigo,Entregue,3.0
+181232,2026-06-17,Grupo Aurora Ltda,PJ,Filial Regional,Trackpad,0.01,Retirada no balcão,0.0,S/N,Ana,Entregue,8.0
+180286,2026-06-17,Isabela Cardoso,PF,Cliente direto,iMac,13343.87,DHL,463.53,4275930923,Ana,Entregue,8.0
+180500,2026-06-18,Meridian Engenharia,PJ,Filial Regional,MacBook Air,0.01,DHL,298.69,1323639855,Felipe,Entregue,1.0
+181090,2026-06-18,Rota Norte Transportes,PJ,Filial Regional,iPhone 15 Pro,7481.99,Correios,47.6,AD407613928BR,Estêvão,Entregue,5.0
+180387,2026-06-18,Vanessa Duarte,PF,Cliente direto,iPad Pro,10449.85,FOX,248.89,4600630513,Luana,Entregue,1.0
+180315,2026-06-19,Vetta Consultoria,PJ,Filial Regional,iMac,17069.95,FOX,456.46,1521521078,Luana,Entregue,8.0
+180918,2026-06-21,Meridian Engenharia,PJ,Filial Regional,iPhone 14,0.01,Correios,76.6,AD941695782BR,Camila,Entregue,10.0
+181118,2026-06-22,Rafael Costa,PF,Cliente direto,iPhone 15,7902.4,DHL,196.66,7620886217,Camila,Em trânsito,
+180015,2026-06-22,Bruno Martins,PF,Cliente direto,iPad Pro,11000.17,FOX,221.9,9896606039,Rodrigo,Entregue,2.0
+180670,2026-06-25,Bruno Martins,PF,Cliente direto,Trackpad,587.87,DHL,178.16,7638204740,Rodrigo,Devolvido,
+180588,2026-06-26,Prisma Educacional,PJ,Filial Regional,Mac Mini,0.01,Correios,96.27,AD463512350BR,Estêvão,Entregue,14.0
+180970,2026-06-28,Carlos Eduardo Souza,PF,Cliente direto,iPhone 13,4030.6,FOX,180.34,2524751277,Luana,Entregue,2.0
+181093,2026-06-29,Zenith Advogados,PJ,Filial Regional,AirPods Pro,1717.77,Retirada no balcão,0.0,S/N,Camila,Entregue,6.0
+180783,2026-07-01,Zenith Advogados,PJ,Filial Regional,iMac,15029.67,Correios,170.71,AD380840558BR,Ana,Entregue,4.0
+180888,2026-07-01,Camila Rodrigues,PF,Cliente direto,iMac,17300.51,Retirada no balcão,0.0,S/N,Felipe,Cancelado,
+180022,2026-07-02,Thiago Barbosa,PF,Cliente direto,AirPods Pro,0.01,DHL,183.94,2351531223,Estêvão,Entregue,4.0
+180422,2026-07-04,Vanessa Duarte,PF,Cliente direto,iPhone 15 Pro,9325.13,Uber,43.02,S/N,Luana,Entregue,3.0
+180436,2026-07-07,Gustavo Ramos,PF,Cliente direto,Trackpad,773.35,Correios,80.62,AD435569630BR,Luana,Entregue,1.0
+180244,2026-07-09,Lucas Andrade,PF,Cliente direto,Magic Mouse,0.01,Correios,65.0,AD755338677BR,Estêvão,Entregue,3.0
+181395,2026-07-09,Solaris Cooperativa,PJ,Filial Regional,iPhone 14,6236.74,Retirada no balcão,0.0,S/N,Felipe,Entregue,1.0
+180688,2026-07-11,Mariana Alves,PF,Cliente direto,iPhone 15 Pro,0.01,Correios,15.0,AD802506364BR,Ana,Entregue,6.0
+180842,2026-07-11,Carlos Eduardo Souza,PF,Cliente direto,Acessórios diversos,419.62,DHL,163.52,6448001026,Felipe,Entregue,3.0
+180399,2026-07-12,Meridian Engenharia,PJ,Filial Regional,Magic Mouse,773.47,FOX,222.05,2595467139,Mateus,Entregue,4.0
+181037,2026-07-13,Rafael Costa,PF,Cliente direto,iPad,0.01,Correios,129.37,AD365809875BR,Mateus,Entregue,4.0
+181361,2026-07-13,Isabela Cardoso,PF,Cliente direto,Cabo USB-C,143.59,DHL,172.26,1818520766,Rodrigo,Entregue,4.0
+180980,2026-07-14,André Nascimento,PF,Cliente direto,iPad,4509.4,Correios,84.9,AD929296154BR,Rodrigo,Entregue,2.0
+181060,2026-07-15,Horizonte Distribuidora,PJ,Filial Regional,Cabo USB-C,0.01,Correios,29.54,AD657749020BR,Luana,Entregue,3.0
+181051,2026-07-16,Nortex Logística,PJ,Filial Regional,MacBook Air,9455.88,Correios,94.41,AD469087606BR,Ana,Entregue,3.0
+180016,2026-07-17,Bravium Participações,PJ,Filial Regional,iPad Pro,8465.2,FOX,224.69,3392080953,Rodrigo,Entregue,4.0
+181394,2026-07-19,Juliana Ferreira,PF,Cliente direto,iPhone 15 Pro,9319.47,Uber,25.25,S/N,Rodrigo,Pendente de envio,
+180716,2026-07-19,Zenith Advogados,PJ,Filial Regional,iPhone 13,4396.09,Correios,47.69,AD955508961BR,Estêvão,Entregue,4.0
+181300,2026-07-19,Amanda Correia,PF,Cliente direto,Acessórios diversos,0.01,DHL,135.24,9136780852,Estêvão,Entregue,4.0
+180058,2026-07-20,Nortex Logística,PJ,Filial Regional,Trackpad,716.13,Correios Seguro,77.84,AD910959828BR,Estêvão,Entregue,3.0
+180786,2026-07-20,Felipe Teixeira,PF,Cliente direto,iMac,0.01,FOX,413.26,8601409432,Camila,Entregue,6.0
+180261,2026-07-21,Amanda Correia,PF,Cliente direto,Magic Mouse,710.22,DHL,199.43,6246716604,Mateus,Entregue,2.0
+181241,2026-07-23,Cascata Alimentos,PJ,Filial Regional,iPad Pro,0.01,DHL,241.73,1264739091,Luana,Entregue,6.0
+181269,2026-07-25,Lucas Andrade,PF,Cliente direto,Carregador,275.57,Uber,30.68,S/N,Felipe,Entregue,8.0
+181004,2026-07-27,Prisma Educacional,PJ,Filial Regional,MacBook Pro 16,20869.13,Correios,116.71,AD104778194BR,Felipe,Entregue,8.0
+180193,2026-07-28,Carlos Eduardo Souza,PF,Cliente direto,MacBook Air,0.01,Correios,123.28,AD264073400BR,Estêvão,Entregue,3.0
+180711,2026-07-29,André Nascimento,PF,Cliente direto,Mac Mini,4161.32,Correios,122.41,AD625968839BR,Felipe,Entregue,4.0
+180555,2026-07-31,Mariana Alves,PF,Cliente direto,Cabo USB-C,106.09,Correios,54.61,AD210154881BR,Camila,Em trânsito,
