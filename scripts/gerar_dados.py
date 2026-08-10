@@ -8,26 +8,29 @@ import pandas as pd
 import numpy as np
 import random
 from datetime import datetime, timedelta
+from pathlib import Path
 
-random.seed(42)
-np.random.seed(42)
+BASE = Path(__file__).resolve().parent.parent
+
+random.seed(7)
+np.random.seed(7)
 
 N = 400
 
 clientes_pf = [
-    "João Pedro Silva", "Mariana Alves", "Carlos Eduardo Souza", "Fernanda Lima",
-    "Rafael Costa", "Juliana Ferreira", "Bruno Martins", "Camila Rodrigues",
-    "Lucas Andrade", "Beatriz Nogueira", "Thiago Barbosa", "Larissa Pereira",
-    "Gustavo Ramos", "Isabela Cardoso", "Felipe Teixeira", "Amanda Correia",
-    "Diego Moraes", "Patrícia Gonçalves", "André Nascimento", "Vanessa Duarte",
+    "Rafaela Monteiro", "Eduardo Vasconcelos", "Priscila Nogueira", "Henrique Salgado",
+    "Débora Farias", "Vinícius Cordeiro", "Sabrina Peixoto", "Igor Bezerra",
+    "Renata Camargo", "Marcos Aurélio Vieira", "Tatiane Rezende", "Leonardo Guimarães",
+    "Cristiane Bittencourt", "Otávio Marinho", "Aline Serpa", "Fabrício Damasceno",
+    "Natália Quaresma", "Rodolfo Espíndola", "Simone Aragão", "Gabriel Torquato",
 ]
 
 clientes_pj = [
-    "Grupo Aurora Ltda", "Meridian Engenharia", "Vetta Consultoria",
-    "Horizonte Distribuidora", "Cronos Tecnologia", "Zenith Advogados",
-    "Bravium Participações", "Cascata Alimentos", "Nortex Logística",
-    "Prisma Educacional", "Solaris Cooperativa", "Talento Digital",
-    "Cimento Vale Forte", "Ômega Hospitalar", "Rota Norte Transportes",
+    "Constelar Engenharia", "Vórtice Consultoria", "Planalto Distribuidora",
+    "Axiom Tecnologia", "Beluga Advocacia", "Cedro Participações",
+    "Litoral Alimentos", "Metrópole Logística", "Ipê Educacional",
+    "Aliança Cooperativa", "Vantage Digital", "Fortaleza Cimentos",
+    "Bem-Estar Hospitalar", "Estrada Real Transportes", "Ventura Seguros",
 ]
 
 produtos = [
@@ -41,7 +44,7 @@ transportadoras = ["DHL", "Correios", "FOX", "Retirada no balcão", "Uber", "Cor
 transportadora_pesos = [0.30, 0.30, 0.15, 0.12, 0.05, 0.08]
 
 solicitantes = ["Cliente direto", "Filial Regional"]
-autorizadores = ["Ana", "Rodrigo", "Camila", "Estêvão", "Mateus", "Luana", "Felipe"]
+autorizadores = ["Marcelo", "Vanessa", "Igor", "Patrícia", "Diego", "Sabrina", "Renan"]
 
 status_opcoes = ["Entregue", "Em trânsito", "Pendente de envio", "Devolvido", "Cancelado"]
 status_pesos = [0.78, 0.10, 0.06, 0.04, 0.02]
@@ -59,7 +62,6 @@ for i in range(N):
     solicitante = "Filial Regional" if is_pj else "Cliente direto"
     produto = random.choice(produtos)
 
-    # valor da OS depende do produto (mock realista)
     base_valor = {
         "iPhone 15 Pro": 8500, "iPhone 15": 6800, "iPhone 14": 5200, "iPhone 13": 4200,
         "MacBook Pro 16": 22000, "MacBook Pro 14": 16000, "MacBook Air": 9500,
@@ -69,7 +71,6 @@ for i in range(N):
         "Acessórios diversos": 400,
     }.get(produto, 1000)
     valor_os = round(max(0.01, np.random.normal(base_valor, base_valor * 0.15)), 2)
-    # muitas OS de garantia saem com valor simbólico
     if random.random() < 0.35:
         valor_os = 0.01
 
@@ -98,8 +99,14 @@ for i in range(N):
     status = random.choices(status_opcoes, weights=status_pesos)[0]
     prazo_entrega_dias = None
     if status == "Entregue":
-        prazo_entrega_dias = int(np.random.choice([1,2,3,4,5,6,7,8,10,14],
-                                  p=[0.08,0.14,0.18,0.16,0.12,0.10,0.08,0.06,0.05,0.03]))
+        if transportadora == "Uber":
+            prazo_entrega_dias = 0
+        elif transportadora == "Retirada no balcão":
+            prazo_entrega_dias = int(np.random.choice([0,1,2,3],
+                                      p=[0.30,0.35,0.20,0.15]))
+        else:
+            prazo_entrega_dias = int(np.random.choice([1,2,3,4,5,6,7,8,10,14],
+                                      p=[0.08,0.14,0.18,0.16,0.12,0.10,0.08,0.06,0.05,0.03]))
 
     os_num += random.randint(1, 6)
 
@@ -120,7 +127,7 @@ for i in range(N):
     })
 
 df = pd.DataFrame(rows).sort_values("Data_Solicitacao").reset_index(drop=True)
-df.to_csv("/home/claude/logistica-portfolio/data/dados_logistica.csv", index=False, encoding="utf-8-sig")
+df.to_csv(BASE / "data" / "dados_logistica.csv", index=False, encoding="utf-8-sig")
 print(df.shape)
 print(df.head(10).to_string())
 print("\nStatus counts:\n", df["Status"].value_counts())
