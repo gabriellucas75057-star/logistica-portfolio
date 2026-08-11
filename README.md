@@ -43,8 +43,8 @@ logistica-portfolio/
 ##  Principais insights
 
 - **DHL e FOX concentram ~79% do custo total de frete**, mesmo não sendo as transportadoras com maior volume — indicando oportunidade de renegociação ou redistribuição de envios.
-  - **Uber é a única modalidade com entrega no mesmo dia** (corrida local), como esperado nesse tipo de serviço — seguido de retirada no balcão, com média de 1,1 dia.
-- Entre as transportadoras convencionais, **FOX tem o menor prazo médio de entrega (4,2 dias)**, à frente de DHL e Correios.
+  - **Uber e FOX entregam praticamente no mesmo dia** (0 e 0,2 dia em média) — condizente com esse tipo de serviço local/expresso.
+- **DHL tem prazo médio de 3,9 dias** (variando de 2 a 6, conforme a região de destino), enquanto **Correios (Sedex) leva em média 5 dias** (podendo chegar a 7).
 - **~79% dos envios são concluídos com sucesso**; o restante se divide entre pendentes, em trânsito, devolvidos e cancelados — um indicador direto de saúde operacional.
 - Itens de baixo valor (cabos, carregadores) têm o **frete representando até 82% do valor do produto**, um ponto de atenção para revisão de política de envio desses itens.
 - Clientes **PF têm ticket médio ligeiramente maior que PJ** neste recorte, o que reforça a importância de segmentar a análise por tipo de cliente em vez de assumir padrões fixos.
