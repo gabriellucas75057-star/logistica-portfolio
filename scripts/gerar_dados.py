@@ -96,17 +96,27 @@ for i in range(N):
     dias_offset = random.randint(0, dias_totais)
     data_envio = data_inicio + timedelta(days=dias_offset)
 
-    status = random.choices(status_opcoes, weights=status_pesos)[0]
+  status = random.choices(status_opcoes, weights=status_pesos)[0]
     prazo_entrega_dias = None
     if status == "Entregue":
         if transportadora == "Uber":
+            # Uber / entrega local: sempre no mesmo dia
             prazo_entrega_dias = 0
+        elif transportadora == "FOX":
+            # FOX: entrega no mesmo dia, às vezes no dia seguinte
+            prazo_entrega_dias = int(np.random.choice([0, 1], p=[0.75, 0.25]))
         elif transportadora == "Retirada no balcão":
+            # cliente retira quando o produto fica pronto, geralmente rápido
             prazo_entrega_dias = int(np.random.choice([0,1,2,3],
                                       p=[0.30,0.35,0.20,0.15]))
+        elif transportadora == "DHL":
+            # DHL: 2 a 6 dias, dependendo da região de destino
+            prazo_entrega_dias = int(np.random.choice([2,3,4,5,6],
+                                      p=[0.15,0.25,0.25,0.20,0.15]))
         else:
-            prazo_entrega_dias = int(np.random.choice([1,2,3,4,5,6,7,8,10,14],
-                                      p=[0.08,0.14,0.18,0.16,0.12,0.10,0.08,0.06,0.05,0.03]))
+            # Correios / Correios Seguro (Sedex): 3 a 7 dias
+            prazo_entrega_dias = int(np.random.choice([3,4,5,6,7],
+                                      p=[0.15,0.25,0.25,0.20,0.15]))
 
     os_num += random.randint(1, 6)
 
